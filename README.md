@@ -1,5 +1,5 @@
  Steps-1 we need to define count down value for speacific date when page will launch
- step-2 we need current date and subtract it from launch date- this will give left time 
+step-2 we need current date and subtract it from launch date- this will give left time 
  step 3- we function that changes time for each 1sec Interval
  when time expires change the content of the page
 Takeaway Lessons
