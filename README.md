@@ -17,3 +17,4 @@ Takeaway Lessons
 8- Better way to console using template literals
 console.log("now date is" + varible name)=> NO
  console.log(`left time is ${timeLeft}`); => var name will go indie this ${}
+ ![image](https://user-images.githubusercontent.com/74482130/210974317-79c0b6d7-9b1a-4eac-b5a1-5dbfd4bede5e.png)
